@@ -1,0 +1,2 @@
+# mcr
+micro capitalism protocol
