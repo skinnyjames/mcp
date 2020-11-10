@@ -1,4 +1,4 @@
-# mcr
+# mcp
 micro capitalism protocol
 
 Introduction
